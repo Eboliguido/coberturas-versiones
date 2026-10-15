@@ -2,5 +2,8 @@
   "activa": true,
   "mensaje": "",
   "aviso": "",
-  "versionMinima": "1.0.0"
+  "versionMinima": "1.0.0",
+  "emitido": "2026-10-15T18:52:40.930Z",
+  "contenido": "{\"activa\":true,\"mensaje\":\"\",\"aviso\":\"\",\"versionMinima\":\"1.0.0\",\"emitido\":\"2026-10-15T18:52:40.930Z\"}",
+  "firma": "wBT4AfItCA6Objc0Hzdl7gIcq/IospWcWrIGBfr0Lo95vS9r2wDOr92l6AGAf7G6nerK2E+RgIqyxnjaHTWnDw=="
 }
